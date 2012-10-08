@@ -1,0 +1,3 @@
+Controlling Arduino with Kinect Tracking
+
+This algorithm uses Forepoint tracking on Kinect to transmit data via serial to an Arduino. The x-axis is mapped to a servo motor moving on the x-axis, and the same is true for the y-axis. 
